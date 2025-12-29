@@ -1,0 +1,6 @@
+
+{
+  "name": "GEC Bhavnagar Chatbot",
+  "description": "A professional rule-based chatbot for Government Engineering College, Bhavnagar. Built with React, TypeScript, and a simulated Node.js/PostgreSQL backend.",
+  "requestFramePermissions": []
+}
